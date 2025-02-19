@@ -20,5 +20,8 @@
     "run": "^1.5.0",
     "sequelize": "^6.37.5",
     "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
   }
 }
